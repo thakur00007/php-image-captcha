@@ -1,0 +1,1 @@
+# php-image-captcha with sample png images
