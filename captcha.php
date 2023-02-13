@@ -11,7 +11,7 @@
 <body>
 <?php
   // get a random number
-  $random_number = str_pad(rand(1, 1000), 4, '0', STR_PAD_LEFT);
+  $random_number = str_pad(rand(1, 999), 4, '0', STR_PAD_LEFT);
   // get a random image with the random number as prefix
   $dir = 'samples/';
   $prefix = 'prefix_';
